@@ -30,4 +30,4 @@ the result based on the program's logic.
 - Improve result calculation
 
 ## Developer
-Vijay Singh# CSharp-Result-Checker-V1
+Vijay Singh 
